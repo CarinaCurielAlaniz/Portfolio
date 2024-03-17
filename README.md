@@ -3,6 +3,6 @@
 Hello! My name is Carina Curiel Alaniz and these are some of my recent projects.
 
 ## Pacman
-Here is a youtube link to my Pacman demo!
+Here is a YouTube link to my Pacman demo!
 
-[![Pacman](Pacman/Assets/YoutubePlayPacMan.png)](https://www.youtube.com/watch?v=3RTFQtgCwY8)
+[![Pacman](<img src="Pacman/Assets/YoutubePlayPacMan.png" width="200">)](https://www.youtube.com/watch?v=3RTFQtgCwY8)
