@@ -1,6 +1,8 @@
 # Portfolio
 
-Hello! My name is Carina Curiel Alaniz and these are some of my recent projects.
+Hello! My name is Carina Curiel Alaniz.
+I am a current sophomore majoring in Computer Science and Computer Engineering at the University of Southern California.
+
 
 ## Pacman
 Here is a YouTube link to my Pacman demo!
