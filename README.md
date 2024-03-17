@@ -5,6 +5,12 @@
 
 
 ## Pacman
+  Ghost AI: 
+  - implemented four different ghost AIs with differing methods of chasin Pacman
+  - 
+  Audio System:
+  - wrapper class for SDL_mixer, provides more functionality
+  - 
   Here is a [YouTube link](https://www.youtube.com/watch?v=3RTFQtgCwY8) to my Pacman demo!
 
 
