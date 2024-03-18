@@ -11,6 +11,7 @@
   - utilzied pathnodes for ghost movement
   Audio System:
   - made a wrapper class for SDL_mixer, provides more functionality for sounds
+ 
   Here is a [YouTube link](https://www.youtube.com/watch?v=3RTFQtgCwY8) to my Pacman demo!
 
 
