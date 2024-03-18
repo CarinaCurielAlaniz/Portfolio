@@ -8,7 +8,7 @@
   Ghost AI: 
   - implemented four different ghost AIs with differing methods of chasing Pacman
   - made smooth transitions between ghosts different states (chase, frightened, dead)
-  - utilzied pathnodes for ghost movement
+  - utilized pathnodes for ghost movement
   Audio System:
   - made a wrapper class for SDL_mixer, provides more functionality for sounds
  
@@ -21,15 +21,16 @@
   Player:
   - collision detection between the player and all objects in the world
   - player can break objects and kill soldiers
-  Camera
-
+  
   Here is a [YouTube link](https://www.youtube.com/watch?v=9Wqc87qa6HU) to my Legend of Zelda demo!
 
 
 ## Star Fox 64
   Follow Camera:
-  - 
-  
+  - implemented a basic follow camera to follow the ship around in the 3D environment
+  Level Loading:
+  - practiced creating the level with regards to memory deletion
+  - found most effective way to load levels in from CSV file
   Here is a [YouTube link](https://www.youtube.com/watch?v=1ZMcnucGKtM) to my Star Fox demo!
 
 
