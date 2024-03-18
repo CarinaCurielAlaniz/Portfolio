@@ -31,6 +31,7 @@
   Level Loading:
   - practiced creating the level with regards to memory deletion
   - found most effective way to load levels in from CSV file
+ 
   Here is a [YouTube link](https://www.youtube.com/watch?v=1ZMcnucGKtM) to my Star Fox demo!
 
 
